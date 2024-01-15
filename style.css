@@ -1,0 +1,16 @@
+body{
+    background-color: #5c5c5c;
+    color: #baff39;
+} 
+.container{
+    width: 400px;
+    margin: 100px auto;
+}
+.box{
+    border:1px solid #baff39;
+    padding:30px 30px 30px 10px;
+    width: 400px;
+}
+h2{
+    color:#fff;
+} 
