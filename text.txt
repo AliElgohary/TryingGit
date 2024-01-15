@@ -1,1 +1,2 @@
 intialize git
+Hello Friend
